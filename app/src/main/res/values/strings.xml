@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">Calculator</string>
+    <string name="ce">CE</string>
+    <string name="content_description">button</string>
+</resources>
